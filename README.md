@@ -5,3 +5,7 @@
     2-Convert Text into upper case
     3-New line remover
     4-Removing the extra space in the text
+    
+    
+    Technology Used-Python,HTML,CSS and Bootstrap4
+    Framework Used-Django
